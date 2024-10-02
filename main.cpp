@@ -2,5 +2,8 @@
 
 int main() {
 	
+	// test
+	printf("Hello VisualStudio Git!");
+
 	return 0;
 }
